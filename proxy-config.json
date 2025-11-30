@@ -2,5 +2,6 @@
   "subdomain": "paste",
   "port": 6002,
   "password": null,
-  "permission": null
+  "permission": null,
+  "public": true
 }
